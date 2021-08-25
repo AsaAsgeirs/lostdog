@@ -13,16 +13,8 @@ header {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
 
-h1 {
+h1, h3, p {
     color: red;
-  }
-
-h3{
-      color: red;
-  }
-
-p{
-      color: red;
   }
 
   ul{
